@@ -1,0 +1,10 @@
+# directory_name/  :  忽略所有directory_name的目录及其内容,包括不同目录下的directory_name目录及其内容
+# Excalidraw/
+# Templates/
+# @Mine/
+.trash/
+.obsidian/
+Obsidian模板-README/
+# workspace.json 工作空间会动态变化
+
+workspace.json
